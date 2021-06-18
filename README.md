@@ -13,7 +13,7 @@
 ## Project Motivation : <a name="motivation"></a>
 Building an unsupervised content based recommendation engine. We want to build a recommendation engine that recommends users of Amazon similar apparels to one they are currently browsing using text description of all the apparels. 
 
-What are we intereseted in answering the following question?
+What are we intereseted in answering the following question:
 1. Which Amazon products are similar to current product being browsed by the user?
 
 ## File Descriptions : <a name="file"></a>
