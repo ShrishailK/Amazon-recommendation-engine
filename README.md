@@ -8,7 +8,7 @@
 4. [Results and Improvements](#results)
    
 ## Project Motivation : <a name="motivation"></a>
-Building an unsupervised content based recommendation engine. We want to build a recommendation engine that recommends users of Amazon similar apparels to one they are currently browsing using text description of all the apparels. 
+Building an unsupervised content based recommendation engine. We want to build a recommendation engine that recommends users of Amazon similar products to one they are currently browsing using text description of all the products. 
 
 What are we intereseted in answering the following question:
 1. Which Amazon products are similar to current product being browsed by the user?
@@ -28,7 +28,7 @@ Here is the explanation of each pertinent feature in the file :
 The three notebooks we see perform the follwong functions:
    - ETL Notebook : This notebook contains the implemented Extract, Transform and load pipline (ETL pipeline).
    - Modelling Notebook : This notebook contains the Machine learning pipeline developed with NLTK and Scikit-Learn.
-   - Amazon recommendation engine : Run the this notebook to see the results.
+   - Amazon recommendation engine : Run this notebook to see the results.
 
 
 The description of various .npz files and pickle file saved in the 'Pickle' folder is as follows:
