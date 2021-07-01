@@ -1,4 +1,4 @@
-# Amazon-apparel-recommendation-engine
+# Amazon-product-recommendation-engine
 
 ### Table of Content:
 
