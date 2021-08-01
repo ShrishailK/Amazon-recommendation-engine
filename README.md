@@ -25,7 +25,11 @@ Here is the explanation of each pertinent feature in the file :
    - title : Text description of the products 
    - formatted_price : Price of the products in $
 
-The three notebooks we see perform the follwong functions:
+Program flow:
+
+![ama](https://user-images.githubusercontent.com/75063039/127771879-dfa21d12-ef17-48be-aad0-916ba1d90b73.png)
+
+Notebooks description:
    - ETL Notebook : This notebook contains the Extract, Transform and load pipline (ETL pipeline).
    - Modelling Notebook : This notebook contains the Machine learning pipeline developed with NLTK and Scikit-Learn.
    - Visualization : This notebook contains functions used in modelling pipeline for reuslt visualization.
@@ -43,8 +47,6 @@ The description of various .npz files and pickle file saved in the 'Pickle' fold
   - Cython 0.29.21 for using pretrained word2vec library by Google.
   - Matplotlib version 3.2.0 for heatmaps.
   - Python version  3.*.
-
-
 
 
 ## Results and Improvements: <a name="results"></a>
