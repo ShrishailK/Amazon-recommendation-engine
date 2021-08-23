@@ -29,6 +29,8 @@ Program flow:
 
 ![ama](https://user-images.githubusercontent.com/75063039/127771879-dfa21d12-ef17-48be-aad0-916ba1d90b73.png)
 
+Check results present in the Amazon recommendation engine notebook. 
+
 Notebooks description:
    - ETL Notebook : This notebook contains the Extract, Transform and load pipline (ETL pipeline).
    - Modelling Notebook : This notebook contains the Machine learning pipeline developed with NLTK and Scikit-Learn.
